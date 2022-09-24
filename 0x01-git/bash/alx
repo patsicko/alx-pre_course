@@ -1,7 +1,11 @@
 ALX
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School is so cool!"
 =======
 echo "ALX School"
 >>>>>>> update_script
+=======
+echo "ALX"
+>>>>>>> parent of ddf57c3... My personal work
