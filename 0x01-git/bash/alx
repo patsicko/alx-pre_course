@@ -8,8 +8,16 @@ echo "ALX School is so cool!"
 echo "ALX School"
 >>>>>>> update_script
 =======
+<<<<<<< HEAD
 echo "ALX School"
 >>>>>>> My personal work
 =======
 echo "ALX School"
 >>>>>>> My personal work
+=======
+echo "ALX"
+>>>>>>> parent of ddf57c3... My personal work
+=======
+echo "ALX"
+>>>>>>> parent of ddf57c3... My personal work
+>>>>>>> 3aa856ba1a0f3ebf61bf102e4aad6625cf6b9e57
