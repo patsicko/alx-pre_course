@@ -1,2 +1,2 @@
 # My first readme
-1.up_to_date
+This is the alx-pre_course for a twelve months 70 hours per week intensive software engineering ALX program
